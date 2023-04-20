@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dr. A</string>
+
+    <string name="abroad_photo">take a picture</string>
+    <string name="abroad_choosephotp">Select from the album</string>
+    <string name="abroad_cancel">cancel</string>
+    <string name="xzlx">Please select a type</string>
+
+</resources>
